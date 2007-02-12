@@ -2,7 +2,7 @@
 %define		pdir	MIME
 %define		pnam	Base64-Scripts
 Summary:	Scripts to decode/encode base64 and quoted-printable
-Summary(pl):	Skrypty koduj±ce i dekoduj±ce base64 i quoted-printable
+Summary(pl.UTF-8):   Skrypty kodujÄ…ce i dekodujÄ…ce base64 i quoted-printable
 Name:		perl-MIME-Base64-Scripts
 Version:	1.00
 Release:	1
@@ -22,9 +22,9 @@ This package contains a few scripts that used to live in the
 MIME-Base64 package but was not assimilated as part of the perl-5.8
 core.
 
-%description -l pl
-Ten pakiet zawiera kilka skryptów obecnych wcze¶niej w pakiecie
-MIME-Base64, ale nie w³±czonych do dystrybucji perla 5.8.
+%description -l pl.UTF-8
+Ten pakiet zawiera kilka skryptÃ³w obecnych wczeÅ›niej w pakiecie
+MIME-Base64, ale nie wÅ‚Ä…czonych do dystrybucji perla 5.8.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
