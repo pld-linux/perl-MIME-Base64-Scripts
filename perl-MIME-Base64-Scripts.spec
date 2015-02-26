@@ -5,7 +5,7 @@ Summary:	Scripts to decode/encode base64 and quoted-printable
 Summary(pl.UTF-8):	Skrypty kodujące i dekodujące base64 i quoted-printable
 Name:		perl-MIME-Base64-Scripts
 Version:	1.00
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
