@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	MIME
 %define		pnam	Base64-Scripts
 Summary:	Scripts to decode/encode base64 and quoted-printable
